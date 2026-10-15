@@ -1,0 +1,10 @@
+# 含真实密钥，绝不入库
+server/config.php
+# 本地环境变量（API 地址 + token）
+scripts/wxpub.env
+wxpub.env
+# 运行产物
+server/.cache/
+.cache/
+# 系统垃圾
+.DS_Store
